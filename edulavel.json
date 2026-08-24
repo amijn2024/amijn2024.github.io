@@ -10,5 +10,33 @@
   {
     "image": "https://static.vecteezy.com/system/resources/previews/055/133/699/non_2x/giant-elephant-standing-majestically-in-a-natural-environment-showcasing-its-large-ears-and-tusks-isolated-on-transparent-background-free-png.png",
     "answer": "elephant"
+  }, 
+  {
+    "image": "https://png.pngtree.com/png-vector/20250512/ourlarge/pngtree-real-person-photo-of-black-boy-wearing-striped-short-message-png-image_16160642.png",
+    "answer": "boy"
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20241111/ourlarge/pngtree-young-indian-gir-in-yellow-with-sunglass-on-transparent-background-png-image_14388529.png",
+    "answer": "girl"
+  },
+  {
+    "image": "https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-in-shirt-smiles-and-gives-thumbs-up-to-show-approval-png-image_13146336.png",
+    "answer": "male"
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-front-view-of-a-smiling-business-woman-png-image_12509704.png",
+    "answer": "female"
+  },
+  {
+    "image": "https://png.pngtree.com/png-clipart/20250517/original/pngtree-john-deere-tractor-powerful-farming-machine-illustration-png-image_21008381.png",
+    "answer": "tractor"
+  },
+  {
+    "image": "https://png.pngtree.com/png-clipart/20230507/ourmid/pngtree-tiger-walking-wildlife-scene-transparent-background-png-image_7088126.png",
+    "answer": "tiger"
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20240917/ourmid/pngtree-pink-rose-flower-png-image_13618784.png",
+    "answer": "rose"
   }
 ]
